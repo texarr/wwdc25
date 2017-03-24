@@ -1,0 +1,6 @@
+zadanie 25
+
+1. start 10.12
+2. html/css/js (w tym jquery), bez frameworków
+3. rwd obowiazkowo 
+4. przydatne pojêcia: hover effects css, owl carousel
